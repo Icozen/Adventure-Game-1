@@ -1,0 +1,31 @@
+{
+    "settings": [
+        "Coloured Drops"
+    ],
+    "unlockedTreasures": [
+        "Shiny Brooch"
+    ],
+    "unlockedEnemies": [
+        "Zombie"
+    ],
+    "highestKillCount": 154,
+    "healthPotionDrops": 112,
+    "strengthPotionDrops": 41,
+    "criticalTokenDrops": 21
+}
+
+{
+    "settings": [
+        "Coloured Drops"
+    ], 
+    "unlockedTreasures": [
+        "Shiny Brooch"
+    ], 
+    "unlockedEnemies": [
+        "Zombie"
+    ], 
+    "highestKillCount": 32, 
+    "healthPotionDrops": 18, 
+    "strengthPotionDrops": 5, 
+    "criticalTokenDrops": 3
+}

@@ -25,7 +25,7 @@ from time import sleep
 from InquirerPy import prompt
 import os
 from termcolor import colored
-from sounds import *
+# from sounds import *
 
 class Enemy:
     global enemy

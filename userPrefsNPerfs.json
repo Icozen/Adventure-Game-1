@@ -1,1 +1,16 @@
-{"settings": ["Console Clearing", "Coloured Drops"], "unlockedTreasures": ["Shiny Brooch"], "unlockedEnemies": ["Zombie"], "highestKillCount": 11, "healthPotionDrops": 8, "strengthPotionDrops": 3, "criticalTokenDrops": 2}
+{
+    "settings": [
+        "Console Clearing",
+        "Coloured Drops"
+    ],
+    "unlockedTreasures": [
+        "Shiny Brooch"
+    ],
+    "unlockedEnemies": [
+        "Zombie"
+    ],
+    "highestKillCount": 11,
+    "healthPotionDrops": 8,
+    "strengthPotionDrops": 3,
+    "criticalTokenDrops": 2
+}
